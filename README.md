@@ -1,6 +1,12 @@
 # Angular Progress Pie
 A simple pie progress indicator for AngularJS. Written in pure Angular, using SVG to render the progress indicator. Tiny, simple and no external dependencies.
 
+## Contributing
+If you have a feature or fix please submit a pull request! This repo follows JavaScript standard style, please make sure all pull requests comply to this before submitting them.
+
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
+[![Circle CI](https://circleci.com/gh/mishguruorg/angular-progress-pie.svg?style=svg)](https://circleci.com/gh/mishguruorg/angular-progress-pie)
 
 
 # Installation
