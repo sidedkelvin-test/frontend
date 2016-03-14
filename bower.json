@@ -3,7 +3,7 @@
   "main": "angular-progress-pie.js",
   "homepage": "https://github.com/mishguruorg/angular-progress-pie",
   "authors": [
-    "Ashok Fernandez <ashok.fernandez@gmail.com>"
+    "Ashok Fernandez"
   ],
   "description": "Simple pie progress indicator for AngularJS",
   "moduleType": [
