@@ -6,7 +6,7 @@ If you have a feature or fix please submit a pull request! This repo follows Jav
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-[![Circle CI](https://circleci.com/gh/mishguruorg/angular-progress-pie.svg?style=svg)](https://circleci.com/gh/mishguruorg/angular-progress-pie)
+[![Circle CI](https://circleci.com/gh/mishguruorg/angular-progress-pie/tree/master.svg?style=svg&circle-token=2c7afd26d9e20abd32ac9843021525f750eeca55)](https://circleci.com/gh/mishguruorg/angular-progress-pie/tree/master)
 
 
 # Installation
