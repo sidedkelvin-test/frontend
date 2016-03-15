@@ -1,6 +1,6 @@
 {
   "name": "angular-progress-pie",
-  "main": "dist/angular-progress-pie.min.js",
+  "main": "dist/angular-progress-pie.js",
   "version": "1.2.0",
   "homepage": "https://github.com/mishguruorg/angular-progress-pie",
   "authors": [
