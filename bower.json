@@ -1,7 +1,7 @@
 {
   "name": "angular-progress-pie",
   "main": "dist/angular-progress-pie.min.js",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "homepage": "https://github.com/mishguruorg/angular-progress-pie",
   "authors": [
     "Ashok Fernandez"
