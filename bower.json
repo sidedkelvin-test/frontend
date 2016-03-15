@@ -7,8 +7,8 @@
     "Ashok Fernandez"
   ],
   "description": "Simple pie progress indicator for AngularJS",
-  "moduleType": [
-    "globals"
+  "main": [
+    "dist/angular-progress-pie.min.js"
   ],
   "keywords": [
     "angular",
