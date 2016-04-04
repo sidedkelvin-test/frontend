@@ -19,7 +19,7 @@ angular.module('angular-progress-pie', [])
         max: '='
       },
       restrict: 'E',
-      replace: false,
+      replace: true,
       template: '<svg style="display: block;">' +
                   '<circle class="progress-pie-background" />' +
                   '<path class="progress-pie" />' +
